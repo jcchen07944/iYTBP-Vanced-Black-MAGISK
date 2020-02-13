@@ -12,6 +12,10 @@ ui_print "*    Make sure to have Signature Verification disabled    *"
 ui_print "*                                                         *"
 ui_print "***********************************************************"
 
+REPLACE="
+/system/app/YouTube
+"
+
 ui_print "- Detected $ARCH system"
 ui_print "- Extracting libraries for $ARCH..."
 unzip -o "$ZIPFILE" -d $TMPDIR >&2
