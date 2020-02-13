@@ -1,36 +1,38 @@
-# YouTube Vanced Universal Installer
-## By X1nto
+# YouTube Vanced Universal Installer 
+## By Xinto
 
-Bruh do you ever wonder why YouTube has ads?  
+Have you ever wonder why YouTube has so *MANY* ads?  
 No?  
-I wonder why lol
+I wonder why lol  
 
-Introducing The new Vanced installer!
+Introducing The new Vanced installer! 
 
-# Info  
-YouTube Vanced is a Mod of stock YT app with more features such as:  
-- Adblocker  
+# Info
+YouTube Vanced is a modified version of stock YT app with many features, such as:  
+- Ad blocking  
 - Background Playback  
-- Customizations, Woooaaaah!  
-- AMOLED Theme  
-- And many, many more  
-
-# Warning  
-Currently, this module requires you to disable Signature Verification. This is because Vanced doesnt have proper keys to pass Google Play Services signature verification.  
+- Customizations, Woooah  
+- many other fun things!   
 
 # Installer Changelog  
-v1.0  
-- Initial Release  
+## v1.0  
+- initial release  
 
 # Vanced Changelog  
-v15.05.54  
-- Removed auto repeat (will be fixed later)  
-- Fixed bugs that were reported in discord  
-- Fixed whatever bugs YouTube fixed  
-- Replaced subtitles with live captions  
+## v15.05.54  
+- Fixed bugs that YT itself fixed  
+- Fixed some bugs from Discord
+- Auto subtitles have been replaced with live captions  
+- accessibility seek buttons have been removed  
+- auto repeat has been removed (will be fixed a bit later)
+
+# WARNING
+As of now, the module requires you to disable signature verification before flashing it, this is needed because Vanced doesn't have proper signature to pass Google Play Services verification without crashing   
+If I (or Vanced Team) somehow finds a way to bypass this, or even make the module disable verification temporarily, a fix will be pushed asap.  
+If the app doesnt appear in Launcher, it means you didn't disable signature verification. please remove the module, disable it, reflash the module and restart, if app appears in launcher, you can safely re-enable signature verification  
+
 # Credits
 - Team Vanced  
-- Vortextriangle
+- vortextriangle for testing  
 - Extreme_Ninja2099
-- Other testers
-
+- other discord testers  
