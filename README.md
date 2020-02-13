@@ -29,7 +29,7 @@ YouTube Vanced is a modified version of stock YT app with many features, such as
 # WARNING
 As of now, the module requires you to disable signature verification before flashing it, this is needed because Vanced doesn't have proper signature to pass Google Play Services verification without crashing   
 If I (or Vanced Team) somehow finds a way to bypass this, or even make the module disable verification temporarily, a fix will be pushed asap.  
-If the app doesnt appear in Launcher, it means you didn't disable signature verification. please remove the module, disable it, reflash the module and restart, if app appears in launcher, you can safely re-enable signature verification  
+If the app doesnt appear in Launcher, it means you didn't disable signature verification. please remove the module, disable verification, reflash the module and restart, if app appears in launcher, you can safely re-enable signature verification  
 
 # Credits
 - Team Vanced  
