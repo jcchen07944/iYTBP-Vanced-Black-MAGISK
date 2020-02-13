@@ -33,6 +33,6 @@ If the app doesnt appear in Launcher, it means you didn't disable signature veri
 
 # Credits
 - Team Vanced  
-- vortextriangle for testing  
-- Extreme_Ninja2099
+- vortextriangle for testing arm64 variant  
+- Extreme_Ninja2099 for testing the behaviour on signature verification enabled  
 - other discord testers  
