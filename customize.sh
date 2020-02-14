@@ -12,6 +12,10 @@ ui_print "*    Make sure to have Signature Verification disabled    *"
 ui_print "*                                                         *"
 ui_print "***********************************************************"
 
+if [ $API -lt "21" ]; then
+  abort "Vanced is for Android 5.0+ (API21)"
+fi
+
 REPLACE="
 /system/app/YouTube
 "
