@@ -13,6 +13,7 @@ YouTube Vanced is a modified version of stock YT app with many features, such as
 - Background Playback  
 - Customizations, Woooah  
 - many other fun things!   
+##### Vanced is for Android 5.0+ (API21)  
 
 # Installer Changelog  
 ## v1.0  
