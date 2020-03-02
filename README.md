@@ -1,7 +1,7 @@
 # YouTube Vanced Universal Installer 
 ## By Xinto
 
-Have you ever wonder why YouTube has so *MANY* ads?  
+Have you ever wondered why YouTube has so *MANY* ads?  
 No?  
 I wonder why lol  
 
